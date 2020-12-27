@@ -24,18 +24,15 @@ _______________________________
 
 # PreRequisite:
 ```python
-            ~ pip install requests
+            ~ pip install psutil
             ~ pip install plyer
-            ~ BASE URL = "https://api.openweathermap.org/data/2.5/weather?"
-            ~ API KEY = "88d279a5ff5fcd8e338ab42d94c819c3"
 ```             
 
 # Module Needed:
 ```python 
-              import requests
-              import math
-              import datetime
               from plyer import notification
+              import psutil
+              import time
 ```
 
 _________________________________
