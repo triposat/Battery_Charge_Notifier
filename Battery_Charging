@@ -25,7 +25,7 @@ while True:
             time.sleep(600)
         else:
             notification.notify(title=f"Battery Percentage is LOW : {percent}%",
-                                message="Please Connect to the The Plug!!",
+                                message="Please Connect to the The Plug!",
                                 app_icon="C:/Users/Dell/Downloads/low.ico",
                                 timeout=15)
             time.sleep(600)
