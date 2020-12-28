@@ -33,11 +33,6 @@ _______________________________
          import psutil
          import time
 ```
-# Use of **`psutil`** Module:
-```python
-       1. Used to access system details and process utilities. 
-       2. Usage of resources like CPU, memory, disks, network, sensors can be monitored by the use of this module.
-```
 # Use of **`plyer`** Module:
 ```python
        1. Used as a Desktop Notifier. 
@@ -48,7 +43,11 @@ _______________________________
        1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
        2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
 ```
-
+# Use of **`psutil`** Module:
+```python
+       1. Used to access system details and process utilities. 
+       2. Usage of resources like CPU, memory, disks, network, sensors can be monitored by the use of this module.
+```
 
 _________________________________
 
