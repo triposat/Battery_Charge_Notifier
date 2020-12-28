@@ -27,13 +27,23 @@ _______________________________
             ~ pip install psutil
             ~ pip install plyer
 ```             
-
 # Module Needed:
 ```python 
               from plyer import notification
               import psutil
               import time
 ```
+# Use of **`plyer`** Module:
+```python
+       1. Used as a Desktop Notifier. 
+       2. It produces a Notification Message in form of a POP-UP Message on Desktop.
+```
+# Use of **`time`** Module:
+```python
+       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
+       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
+```
+
 
 _________________________________
 
