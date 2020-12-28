@@ -24,14 +24,14 @@ _______________________________
 
 # PreRequisite:
 ```python
-            ~ pip install psutil
-            ~ pip install plyer
+       ~ pip install psutil
+       ~ pip install plyer
 ```             
 # Module Needed:
 ```python 
-              from plyer import notification
-              import psutil
-              import time
+         from plyer import notification
+         import psutil
+         import time
 ```
 # Use of **`psutil`** Module:
 ```python
