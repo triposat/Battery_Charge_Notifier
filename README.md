@@ -38,17 +38,16 @@ _______________________________
        1. Used as a Desktop Notifier. 
        2. It produces a Notification Message in form of a POP-UP Message on Desktop.
 ```
-# Use of **`time`** Module:
-```python
-       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
-       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
-```
 # Use of **`psutil`** Module:
 ```python
        1. Used to access system details and process utilities. 
        2. Usage of resources like CPU, memory, disks, network, sensors can be monitored by the use of this module.
 ```
-
+# Use of **`time`** Module:
+```python
+       1. This Module provides many ways of representing time in code, such as objects, numbers, and strings. 
+       2. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
+```
 _________________________________
 
 <br/>
