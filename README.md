@@ -13,7 +13,7 @@
 </p>
 
 _______________________________
-### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Battery_Charge_Notifier/blob/main/Battery_Charging">**`BATTERY CHARGING NOTIFIER`**</a> Using `PYTHON`<h1/>
+### <h1 align="center"><a href="https://github.com/Iamtripathisatyam/Battery_Charge_Notifier/blob/main/Battery_Charging.py">**`BATTERY CHARGING NOTIFIER`**</a> Using `PYTHON`<h1/>
 _______________________________
 
 <h3 align="center">
