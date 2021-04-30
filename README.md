@@ -4,7 +4,7 @@
 ![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Battery_Charge_Notifier?color=red&label=Lines%20of%20Code)</br>
 
 <p align="center">
-<img src="https://icons.iconarchive.com/icons/treetog/junior/128/battery-power-icon.png" />
+<a href="https://github.com/Iamtripathisatyam/Battery_Charge_Notifier/blob/main/Battery_Charging.py"><img src="https://icons.iconarchive.com/icons/treetog/junior/128/battery-power-icon.png" /></a>
 </p>
 
 <p align="center">
