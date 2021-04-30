@@ -17,7 +17,7 @@
   <img src="https://profile-counter.glitch.me/{Battery_Charge_Notifier}/count.svg" alt=Iamtripathisatyam />
 </p>
 
-### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Battery_Charge_Notifier/blob/main/Covid_19_Cases.py"><img src="https://img.shields.io/badge/-BATTERY CHARGING NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Battery_Charge_Notifier/blob/main/Battery_Charging.py"><img src="https://img.shields.io/badge/-BATTERY CHARGING NOTIFIER USING PYTHON-black?logo=python&logoColor=yellow&style=flat-square"></a><h3/>
 
 ### Prerequisite:
 ```python
