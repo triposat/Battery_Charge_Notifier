@@ -41,6 +41,8 @@
    - It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
 _________________________________
 
+### <h3 align="center"><a href="https://github.com/Iamtripathisatyam/Battery_Charge_Notifier">Made with <img src="https://cutt.ly/rblcRTN" width="20px"> in India</a><h3/>=
+
 <br/>
 <p align="center">
 <img src="https://badges.pufler.dev/updated/Iamtripathisatyam/Battery_Charge_Notifier?style=for-the-badge&logo=github&logoColor=yellow" alt=Iamtripathisatyam />
