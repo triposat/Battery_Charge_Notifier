@@ -1,6 +1,6 @@
-![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Battery_Charge_Notifier?color=red&label=Lines%20of%20Code)</br>
 [![Prettier](https://img.shields.io/badge/Code%20Style-Prettier-red.svg)](https://github.com/prettier/prettier)</br>
 ![Size](https://img.shields.io/github/repo-size/Iamtripathisatyam/Battery_Charge_Notifier?color=red&label=Repo%20Size%20)</br>
+![](https://img.shields.io/tokei/lines/github/Iamtripathisatyam/Battery_Charge_Notifier?color=red&label=Lines%20of%20Code)</br>
 ![License](https://img.shields.io/badge/License-MIT-red.svg)</br>
 
 <p align="center">
