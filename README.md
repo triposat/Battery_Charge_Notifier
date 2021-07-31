@@ -23,9 +23,9 @@
  import psutil
  import time
 ```
-### **plyer** 
+Use of **plyer** 
    - Used as a Desktop Notifier. 
    - It produces a Notification Message in form of a POP-UP Message on Desktop.
-### **psutil**
+### Use of **psutil**
    - Used to access system details and process utilities. 
    - Usage of resources like CPU, memory, disks, network, sensors can be monitored by the use of this module.
